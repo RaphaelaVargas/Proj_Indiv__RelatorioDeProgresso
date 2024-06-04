@@ -8,8 +8,8 @@ Este projeto tem como objetivo a criação de um relatório detalhado que demons
 
 O relatório gerado incluirá:
 
-- **Progresso Diário**: Um resumo do progresso diário de cada funcionário, mostrando o quão produtivo está sendo o trabalho.
-- **Tarefas Concluídas**: Lista de tarefas concluídas por cada membro da equipe diariamente.
-- **Horas Trabalhadas**: Registro das horas trabalhadas por cada funcionário a cada dia.
-- **Problemas Identificados**: Relatório de quaisquer problemas ou impedimentos encontrados durante o desenvolvimento.
-- **Sugestões de Melhoria**: Identificação de possíveis áreas de melhoria no processo de desenvolvimento.
+- **Progresso Diário**
+- **Tarefas Concluídas**
+- **Horas Trabalhadas**
+- **Problemas Identificados**
+- **Sugestões de Melhoria**
